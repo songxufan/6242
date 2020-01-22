@@ -27,6 +27,8 @@ It is also an academic study project of big data analysis and visualization, con
 Direct to project wiki page to download progress documentations in PDF. 
 
 - [Project Wiki](https://github.com/MUYANGGUO/6242/wiki)
+
+- [Application Website](https://project-54404.firebaseapp.com/)
  
 - Project Hightlights:
  
